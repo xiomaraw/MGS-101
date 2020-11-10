@@ -1,0 +1,66 @@
+
+/*Header*/
+.header{
+  line-height: 0.8;
+}
+
+/*Present Address*/
+.address{
+  text-align: left;
+  line-height: 0.5;
+}
+
+/*Body Styles*/
+body{
+  font-family: "Times New Roman", Times, serif;
+  background-color: bisque;
+  border: 1px solid black; 
+}
+/*Subheadings*/
+h2{
+  background-color: tan;
+  padding-left: 10px;
+  letter-spacing: 0.05em;
+}
+
+h3,h4{
+  line-height: 0.8;
+  font-weight: normal;
+  padding-left: 15px;
+}
+
+/*School edit*/
+.school{
+  text-transform: uppercase;
+  line-height: 0.2;
+}
+
+/*GPA & header*/
+p{
+  line-height: 0.8;
+  padding-left: 30px;
+}
+
+/*Bullet Points*/
+ul li{
+  font-size: 1.0em;
+  padding-bottom: 5px;
+  color: rgb(0,0,0);
+}
+
+/*Bottom of page*/
+footer{
+  clear: left;
+}
+footer address{
+  background-color: bisque;
+  text-align: center;
+  padding-top: 0.9em;
+  padding-bottom: 0.5em;
+}
+
+footer address span{
+  padding: 2px 0.5em;
+  font: normal small-caps 0.9em/4em;
+  font-family: 'Palatino Linotype', 'Book Antiqua', palatino, serif;
+}
