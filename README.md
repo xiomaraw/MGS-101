@@ -24,17 +24,17 @@ Files included in this project:
 
 ## Lab 7
 Task - Utilize HTML and CSS in order to create a stylized resume. 
-     I. You must create a HTML page that contains the following sections (information can be made up or real):
-       1. Header: Include your name, full address, phone number and email.
-       2. Education: Include the name of the college, degree, major, minor,
+     1. You must create a HTML page that contains the following sections (information can be made up or real):
+        Header: Include your name, full address, phone number and email.
+        Education: Include the name of the college, degree, major, minor,
           and month and year of your anticipated graduation.
-       3. Experience: Work experience / volunteer experience
-       4. Skills: Include technical and soft skills
-    II. You must also create a CSS file that formats at least 5 selectors such as:
-       1. <h1>
-       2. <p>
-       3. <body>
-    III. For each of these selectors, format at least 3 properties
+        Experience: Work experience / volunteer experience
+        Skills: Include technical and soft skills
+     2. You must also create a CSS file that formats at least 5 selectors such as:
+        <h1>
+        <p>
+        <body>
+    3. For each of these selectors, format at least 3 properties
     
 Files included in this project:
 1. lab7-index.html -> Xiomara Watler's Resume that displays a header, education, experience, and skills 
