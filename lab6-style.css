@@ -1,0 +1,40 @@
+
+h1 {
+  color: blue;
+}
+
+h2, h3, h4{
+border-style: inset;
+}
+
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+/* Styles for table */
+table.studytime{
+  border: 10px outset rgb(186,188,190);
+  text-align: center;
+  width: 100%;
+}
+table.studytime th, table.studytime td{
+  border: 1px solid gray;
+}
+/*Styles for table body */
+table.studytime tbody td{
+  padding: 5px;
+}
+
+/*Styles for the table caption */
+table.studytime caption{
+  font-size: 1.0em;
+}
+
+/*Styles for the first column */
+table.studytime col.firstCol{
+  background-color: lightgray;
+  width: 7%;
+}
