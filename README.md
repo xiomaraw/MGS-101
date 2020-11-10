@@ -1,5 +1,5 @@
 # mgs-101
-Projects completed/ worked on in MGS 101: Information Technology and Management (Fall 2020)
+Projects completed in MGS 101: Information Technology and Management (Fall 2020)
 
 ## Lab 6
 Task - create HTML pages that satisfy the following requirements:
