@@ -19,8 +19,6 @@ Files included in this project:
                       an ordered list of a schedule I follow for when I need to relax,
                       and a table with the contents of an excerpt of my planner for the week.
 4. lab6-styles.css -> CSS Style sheet for lab 6
-5. BondiBeachRescue.jpg -> Image of 4 lifeguards who work on Bondi Beach
-6. Supermariobros.jpg -> Image of New Super Mario Bros. Wii title screen
 
 ## Lab 7
 Task - Utilize HTML and CSS to create a stylized resume. 
